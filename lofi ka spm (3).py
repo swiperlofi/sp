@@ -14,7 +14,7 @@ from playwright.async_api import async_playwright, Page, BrowserContext
 # =========================
 SESSION_ID = input("Session ID: ").strip()
 DM_URL = input("Group Chat URL: ").strip()
-MESSAGE = "hy"
+MESSAGE = "speed match kr hakleeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee randceeeeeeeeeeeeee mdrcc"
 THREADS = int(input("Threads (3–5): ") or 4)
 MAX_MESSAGES = int(input("Max messages (0 = infinite): ") or 0)
 
@@ -172,3 +172,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
